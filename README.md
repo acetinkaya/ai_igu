@@ -16,9 +16,9 @@ DERS 6 ->
 
 DERS 7 -> 
 
-DERS 8 -> Dosya İşlemleri ve Veri Görselleştirme İşlemleri
+DERS 8 -> 
 
-DERS 9 -> Sıralama Algoritmaları
+DERS 9 -> 
 
 DERS 10 -> Arama ve Graf Algoritmaları
 
