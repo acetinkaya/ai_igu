@@ -20,11 +20,11 @@ DERS 8 ->
 
 DERS 9 -> 
 
-DERS 10 -> Arama ve Graf Algoritmaları
+DERS 10 -> 
 
-DERS 11 -> Yığın ve Kuyruk Yapısı
+DERS 11 -> 
 
-DERS 12 -> Grafik Programlama
+DERS 12 -> 
 
 ## VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
