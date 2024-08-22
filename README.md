@@ -8,9 +8,9 @@ DERS 2 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemler
 
 DERS 3 -> 
 
-DERS 4 -> Python Programlama Dili Üzerinde Döngü Yapıları
+DERS 4 -> 
 
-DERS 5 -> Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri
+DERS 5 -> 
 
 DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları
 
