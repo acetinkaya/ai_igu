@@ -1,4 +1,4 @@
-## Artificial Intelligence for TURKIYE
+## TÜRKİYE için Yapay Zeka Teknolojileri // Artificial Intelligence for TURKIYE 
 
 DERS 0 -> Yapay Zeka ve Kavramları 
 
