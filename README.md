@@ -1,6 +1,6 @@
-## TÜRKİYE için Yapay Zeka Teknolojileri // Artificial Intelligence for TURKIYE 
+## Yapay Zeka ve Veri Kavramı // Concept of Artificial Intelligence and Data
 
-DERS 0 -> Yapay Zeka ve Kavramları 
+DERS 0 -> Yapay Zeka ve Veri Kavramı 
 
 DERS 1 -> Google Colab & Google Drive Ayarları ve Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları)
 
