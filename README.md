@@ -28,6 +28,6 @@ DERS 12 -> Grafik Programlama
 
 VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
-1. Uygulama -> İBB Açık Veri Portalı, İlçe Bazında Su Tüketim Miktarı, Veri Seti Linki-->> https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari
+1. Uygulama -> 
 
-2. Uygulama -> 
+2. Uygulama -> İBB Açık Veri Portalı, İlçe Bazında Su Tüketim Miktarı, Veri Seti Linki-->> https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari
