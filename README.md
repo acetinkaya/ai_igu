@@ -26,4 +26,6 @@ DERS 11 -> Yığın ve Kuyruk Yapısı
 
 DERS 12 -> Grafik Programlama
 
+VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
+1. Uygulama -> 
