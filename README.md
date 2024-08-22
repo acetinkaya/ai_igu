@@ -12,9 +12,9 @@ DERS 4 ->
 
 DERS 5 -> 
 
-DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları
+DERS 6 -> 
 
-DERS 7 -> QUIZ - Fonksiyonlar ve Dosya İşlemleri
+DERS 7 -> 
 
 DERS 8 -> Dosya İşlemleri ve Veri Görselleştirme İşlemleri
 
