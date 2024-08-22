@@ -26,7 +26,7 @@ DERS 11 -> Yığın ve Kuyruk Yapısı
 
 DERS 12 -> Grafik Programlama
 
-VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
+## VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
 1. Uygulama -> İBB Açık Veri Portalı, Atıktan Geri Kazanım Miktarları (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari 
 
