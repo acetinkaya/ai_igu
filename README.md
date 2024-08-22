@@ -4,7 +4,7 @@ DERS 0 -> Yapay Zeka ve Kavramları
 
 DERS 1 -> Google Colab & Google Drive Ayarları ve Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları)
 
-DERS 2 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları)
+DERS 2 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
 
 DERS 3 -> Python Programlama Dili Üzerinde Koşul Yapıları
 
