@@ -4,14 +4,15 @@ DERS 0 -> Yapay Zeka (YZ) ve Veri Kavramı
 
 DERS 1 -> Google Colab & Google Drive Ayarları ve YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib ve BeautifulSoup Kütüphanelerinin Uygulamaları
 
+DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - OpenCV, Scikit-Learn, Tensorflow ve Pytorch Kütüphanelerinin Uygulamaları
 
  Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları)
 
-DERS 2 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
+Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
 
 DERS 3 -> 
 
-DERS 4 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - OpenCV, Scikit-Learn, Tensorflow ve Pytorch 
+DERS 4 -> 
 
 DERS 5 -> 
 
