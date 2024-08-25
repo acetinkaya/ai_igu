@@ -8,25 +8,21 @@ DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - OpenCV
 
 DERS 3 -> Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları) Uygulaması ve Görüntü İşleme (İmge İşleme) Uygulamaları
 
-DERS 4 -> Python Programlama Dili ile YZ Bulanık Mantık ve Uygulaması - 1
+DERS 4 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulaması - 1
 
-DERS 5 -> Python Programlama Dili ile YZ Bulanık Mantık ve Uygulaması - 2
+DERS 5 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulaması - 2
 
 DERS 6 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
 
-DERS 7 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
+DERS 7 -> 
 
-DERS 8 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2 
+DERS 8 -> 
 
 DERS 9 -> 
 
-DERS 10 -> 
+DERS 10 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
 
-DERS 11 -> 
-
-DERS 10 -> 
-
-DERS 11 -> 
+DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2 
 
 DERS 12 -> 
 
