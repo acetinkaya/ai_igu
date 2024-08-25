@@ -10,9 +10,9 @@ Ders 3 -> Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak V
 
 DERS 4 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
 
-DERS 5 -> Python Programlama Dili ile ...
+DERS 5 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
 
-DERS 6 -> 
+DERS 6 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 
 DERS 7 -> 
 
