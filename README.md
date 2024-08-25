@@ -8,7 +8,7 @@ DERS 2 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemler
 
 DERS 3 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib ve BeautifulSoup
 
-DERS 4 -> 
+DERS 4 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - OpenCV, Scikit-Learn, Tensorflow ve Pytorch 
 
 DERS 5 -> 
 
