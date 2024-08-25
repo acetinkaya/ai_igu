@@ -12,7 +12,7 @@ DERS 4 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulaması - 1
 
 DERS 5 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulaması - 2
 
-DERS 6 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
+DERS 6 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemi Örneğinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
 
 DERS 7 -> 
 
