@@ -16,7 +16,7 @@ DERS 6 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemler
 
 DERS 7 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
 
-DERS 8 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
+DERS 8 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2 
 
 DERS 9 -> 
 
