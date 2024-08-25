@@ -12,19 +12,17 @@ DERS 4 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulaması - 1
 
 DERS 5 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulaması - 2
 
-DERS 6 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemi Örneğinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
+DERS 6 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemi Örneğinin Gerçekleştirilmesi - IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi
 
-DERS 7 -> 
+DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi YZ Uygulaması - Titanik Veri Seti
 
-DERS 8 -> 
+DERS 8 -> Python Programlama Dili ile Derin Öğrenme YZ Uygulaması - MNIST Veri Seti
 
-DERS 9 -> 
+DERS 9 -> Python Programlama Dili ile Derin Öğrenme YZ Metin Sınıflandırma ve Analizi - NLP Veri Seti
 
 DERS 10 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
 
 DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2 
-
-DERS 12 -> 
 
 ## VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
