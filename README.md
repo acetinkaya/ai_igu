@@ -1,6 +1,6 @@
 ## Yapay Zeka ve Veri Kavramı // Concept of Artificial Intelligence and Data
 
-DERS 0 -> Yapay Zeka (YZ), Veri Bilimi, Veri Seti Kavramları ve Google Drive + Colab Ayarları 
+DERS 0 -> Yapay Zeka (YZ), YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Bilimi, Veri Seti Kavramları ve Google Drive + Colab Ayarları 
 
 DERS 1 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib ve BeautifulSoup Kütüphanelerinin Uygulamaları
 
