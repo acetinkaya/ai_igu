@@ -1,12 +1,12 @@
 ## Yapay Zeka ve Veri Kavramı // Concept of Artificial Intelligence and Data
 
-DERS 0 -> Yapay Zeka ve Veri Kavramı 
+DERS 0 -> Yapay Zeka (YZ) ve Veri Kavramı 
 
 DERS 1 -> Google Colab & Google Drive Ayarları ve Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları)
 
 DERS 2 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
 
-DERS 3 -> 
+DERS 3 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib ve BeautifulSoup
 
 DERS 4 -> 
 
