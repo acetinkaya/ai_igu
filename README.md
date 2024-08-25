@@ -1,10 +1,10 @@
 ## Yapay Zeka ve Veri Kavramı // Concept of Artificial Intelligence and Data
 
-DERS 0 -> Yapay Zeka (YZ), YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Bilimi, Veri Seti Kavramları ve Google Drive + Colab Ayarları 
+DERS 0 -> Yapay Zeka (YZ), YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Madenciliği, Veri Bilimi, Büyük Veri, Veri Seti Kavramları ve Google Drive + Colab Ayarları 
 
-DERS 1 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib ve BeautifulSoup Kütüphanelerinin Uygulamaları
+DERS 1 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib, BeautifulSoup ve OpenCV Kütüphanelerinin Uygulamaları
 
-DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - OpenCV, Scikit-Learn, Tensorflow ve Pytorch Kütüphanelerinin Uygulamaları
+DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
 
 DERS 3 -> Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları) Uygulaması ve Görüntü İşleme (İmge İşleme) Uygulamaları
 
