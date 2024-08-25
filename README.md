@@ -1,5 +1,21 @@
 ## Yapay Zeka ve Veri Kavramı // Concept of Artificial Intelligence and Data
 
+## Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
+
+1. Programın Başlangıcı 
+2. Programlama Bilgisi
+3. Veri Yapıları ve Algoritma Bilgisi
+4. Veri Toplama (Veri Seti veya Veri Takibi)
+5. Veriyi Hazırlama
+6. Model Oluşturma
+7. Eğitimi Başlatma
+8. Eğitim Sonrasında Modelin Hatasının ve Doğruluğunun Tesğiti 
+9. Eğitim Sonrasında Modelin Sonuçlarının Değerlendirilmesi
+10. Eğitim Modelinin Grafiğinin Oluşturulması
+11. Programın Bitirilmesi
+
+## Haftalık Ders İçeriği
+
 DERS 0 -> Yapay Zeka (YZ), YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Madenciliği, Veri Bilimi, Büyük Veri, Veri Seti Kavramları ve Google Drive + Colab Ayarları 
 
 DERS 1 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib, BeautifulSoup ve OpenCV Kütüphanelerinin Uygulamaları
