@@ -6,9 +6,11 @@ DERS 1 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas
 
 DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - OpenCV, Scikit-Learn, Tensorflow ve Pytorch Kütüphanelerinin Uygulamaları
 
-Ders 3 -> Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları) ve Görüntü İşleme (Resim İşleme...) Uygulamalarına Giriş 
+Ders 3 -> Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları) Uygulaması ve Görüntü İşleme (İmge İşleme) Uygulaması
 
-DERS 4 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
+Ders 4 -> YZ Bulanık Mantık ve Uygulaması
+
+DERS 5 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin İşlemlerinin Gerçekleştirilmesi (IBB Açık Kaynak Veri Seti -> İlçeler Bazında Su Tüketim Miktarının Analizi)
 
 DERS 5 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
 
