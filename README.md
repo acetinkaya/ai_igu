@@ -12,8 +12,9 @@
 8. Eğitim Sonrasında Modelin Hatasının ve Doğruluğunun Tespiti 
 9. Eğitim Sonrasında Modelin Sonuçlarının Değerlendirilmesi
 10. Eğitim Sürecinde Modelin Başarı ve Hata Grafiğinin Oluşturulması
-11. Gerçek ve tahmin edilen değerler arasındaki farkı Bulma
-12. Programın Bitirilmesi
+11. Gerçek ve Tahmin Edilen Değerler Arasındaki Farkı Bulma
+12. Sistemin Yüzdelik Hata Payının Bulunması
+13. Programın Bitirilmesi
 
 ## Haftalık Ders İçeriği
 
