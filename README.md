@@ -9,10 +9,11 @@
 5. Veriyi Hazırlama
 6. Model Oluşturma
 7. Eğitimi Başlatma
-8. Eğitim Sonrasında Modelin Hatasının ve Doğruluğunun Tesğiti 
+8. Eğitim Sonrasında Modelin Hatasının ve Doğruluğunun Tespiti 
 9. Eğitim Sonrasında Modelin Sonuçlarının Değerlendirilmesi
-10. Eğitim Modelinin Grafiğinin Oluşturulması
-11. Programın Bitirilmesi
+10. Eğitim Sürecinde Modelin Başarı ve Hata Grafiğinin Oluşturulması
+11. Gerçek ve tahmin edilen değerler arasındaki farkı Bulma
+12. Programın Bitirilmesi
 
 ## Haftalık Ders İçeriği
 
