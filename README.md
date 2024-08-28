@@ -58,6 +58,6 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 
 4. Kocaeli Açık Veri Portalı -> https://veri.kocaeli.bel.tr/
 
-5. Ordu Büyükşehir Belediyesi Açık Veri Platformu
+5. Ordu Büyükşehir Belediyesi Açık Veri Platformu -> https://acikveri.ordu.bel.tr/
 
 6. Kaggle - Datasets -> https://www.kaggle.com/datasets 
