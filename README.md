@@ -47,3 +47,7 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 1. Uygulama -> İBB Açık Veri Portalı, Atıktan Geri Kazanım Miktarları (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari 
 
 2. Uygulama -> İBB Açık Veri Portalı, İlçe Bazında Su Tüketim Miktarı, Veri Seti Linki-->> https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari
+
+# VERİ SETLERİNİN BULUNDUĞU SAYFALAR 
+
+
