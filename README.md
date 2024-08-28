@@ -54,4 +54,4 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
    
 2. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
 
-3. Kaggle -> 
+3. Kaggle - Datasets -> https://www.kaggle.com/datasets 
