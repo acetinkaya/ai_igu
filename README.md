@@ -52,4 +52,4 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 
 1. İBB Açık Veri Portalı https://data.ibb.gov.tr
    
-2. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu ->
+2. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
