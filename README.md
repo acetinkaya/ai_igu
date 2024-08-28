@@ -50,8 +50,10 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 
 # VERİ SETLERİNİN BULUNDUĞU SAYFALAR 
 
-1. İBB Açık Veri Portalı -> https://data.ibb.gov.tr
+1. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
    
-2. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
+2. 
 
-3. Kaggle - Datasets -> https://www.kaggle.com/datasets 
+3. İBB Açık Veri Portalı -> https://data.ibb.gov.tr
+
+4. Kaggle - Datasets -> https://www.kaggle.com/datasets 
