@@ -51,13 +51,15 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 # VERİ SETLERİNİN BULUNDUĞU SAYFALAR 
 
 1. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
+
+2. Ankara Büyükşehir Belediyesi Açık Veri Portalı -> https://seffaf.ankara.bel.tr/
    
-2. İstanbul Büyükşehir Belediyesi Açık Veri Portalı -> https://data.ibb.gov.tr
+3. İstanbul Büyükşehir Belediyesi Açık Veri Portalı -> https://data.ibb.gov.tr
 
-3. İzmir Büyükşehir Belediyesi Açık Veri Portalı Büyükşehir Belediyesi -> https://acikveri.bizizmir.com/
+4. İzmir Büyükşehir Belediyesi Açık Veri Portalı Büyükşehir Belediyesi -> https://acikveri.bizizmir.com/
 
-4. Kocaeli Büyükşehir Belediyesi Açık Veri Portalı -> https://veri.kocaeli.bel.tr/
+5. Kocaeli Büyükşehir Belediyesi Açık Veri Portalı -> https://veri.kocaeli.bel.tr/
 
-5. Ordu Büyükşehir Belediyesi Açık Veri Platformu -> https://acikveri.ordu.bel.tr/
+6. Ordu Büyükşehir Belediyesi Açık Veri Platformu -> https://acikveri.ordu.bel.tr/
 
-6. Kaggle - Datasets -> https://www.kaggle.com/datasets 
+7. Kaggle - Datasets -> https://www.kaggle.com/datasets 
