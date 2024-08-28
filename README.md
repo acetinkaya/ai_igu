@@ -52,10 +52,10 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 
 1. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
    
-2. İBB Açık Veri Portalı -> https://data.ibb.gov.tr
+2. İstanbul Açık Veri Portalı -> https://data.ibb.gov.tr
 
 3. İzmir Açık Veri Portalı -> https://acikveri.bizizmir.com/
 
-4. Kocaeli Açık Veri Portalı -> 
+4. Kocaeli Açık Veri Portalı -> https://veri.kocaeli.bel.tr/
 
 5. Kaggle - Datasets -> https://www.kaggle.com/datasets 
