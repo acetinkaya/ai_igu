@@ -56,7 +56,7 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 
 3. İzmir Açık Veri Portalı -> https://acikveri.bizizmir.com/
 
-4. Kocaeli Açık Veri Portalı -> https://veri.kocaeli.bel.tr/
+4. Kocaeli Büyükşehir Belediyesi Açık Veri Portalı -> https://veri.kocaeli.bel.tr/
 
 5. Ordu Büyükşehir Belediyesi Açık Veri Platformu -> https://acikveri.ordu.bel.tr/
 
