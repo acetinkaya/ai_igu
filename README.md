@@ -56,4 +56,6 @@ DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2
 
 3. İzmir Açık Veri Portalı -> https://acikveri.bizizmir.com/
 
-4. Kaggle - Datasets -> https://www.kaggle.com/datasets 
+4. Kocaeli Açık Veri Portalı -> 
+
+5. Kaggle - Datasets -> https://www.kaggle.com/datasets 
