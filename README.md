@@ -36,7 +36,7 @@ DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri S
 
 DERS 8 -> Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
 
-DERS 9 -> Python Programlama Dili ile Derin Öğrenme YZ Metin Sınıflandırma ve Analizi - 
+DERS 9 -> Python Programlama Dili ile Derin Öğrenme Tabanlı NLP Veri Seti üzerinden YZ Metin Analizi Uygulamasının Gerçekleştirilmesi
 
 DERS 10 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
 
