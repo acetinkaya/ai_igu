@@ -34,7 +34,7 @@ DERS 6 -> Python Programlama Dili ile Bulanık Mantık Tabanlı Komisyon Hesapla
 
 DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
 
-DERS 8 -> Python Programlama Dili ile Derin Öğrenme YZ Uygulaması - MNIST Veri Seti
+DERS 8 -> Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
 
 DERS 9 -> Python Programlama Dili ile Derin Öğrenme YZ Metin Sınıflandırma ve Analizi - 
 
