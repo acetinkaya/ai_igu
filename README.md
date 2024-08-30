@@ -38,9 +38,9 @@ DERS 8 -> Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti �
 
 DERS 9 -> Python Programlama Dili ile Derin Öğrenme Tabanlı NLP Veri Seti üzerinden YZ Metin Analizi Uygulamasının Gerçekleştirilmesi
 
-DERS 10 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
+DERS 10 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Görüntü İşleme üzerinden YZ Maske Tespiti Uygulamasının Gerçekleştirilmesi 
 
-DERS 11 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 2 
+DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi
 
 ## VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
