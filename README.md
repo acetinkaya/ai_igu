@@ -30,13 +30,13 @@ DERS 4 -> Python Programlama Dili ile Görüntü İşleme ile Plaka ve Metinsel 
 
 DERS 5 -> Python Programlama Dili ile Görüntü İşleme Tabanlı Nesne Tespiti Uygulamasının Gerçekleştirilmesi
 
-DERS 6 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulamasının Gerçekleştirilmesi
+DERS 6 -> Python Programlama Dili ile Bulanık Mantık Tabanlı Komisyon Hesaplaması YZ Uygulamasının Gerçekleştirilmesi
 
-DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi YZ Uygulaması - Titanik Veri Seti
+DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
 
 DERS 8 -> Python Programlama Dili ile Derin Öğrenme YZ Uygulaması - MNIST Veri Seti
 
-DERS 9 -> Python Programlama Dili ile Derin Öğrenme YZ Metin Sınıflandırma ve Analizi - NLP Veri Seti
+DERS 9 -> Python Programlama Dili ile Derin Öğrenme YZ Metin Sınıflandırma ve Analizi - 
 
 DERS 10 -> Python Programlama Dili ile Görüntü İşleme Uygulaması - 1 
 
