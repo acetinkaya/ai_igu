@@ -42,7 +42,7 @@ DERS 10 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Görüntü İşl
 
 DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi
 
-DERS 12 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Su Veri seti üzerinden YZ Su analizi Uygulamasının Gerçekleştirilmesi
+DERS 12 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Su Veri seti üzerinden YZ Su Analizi Uygulamasının Gerçekleştirilmesi
 
 ## VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
