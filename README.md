@@ -24,13 +24,13 @@ DERS 1 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 1 - Pandas
 
 DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
 
-DERS 3 -> Python Programlama Dili ile Veri Görselleştirme (IBB Açık Kaynak Veri Seti -> Atıktan Geri Kazanım Miktarları) Uygulaması ve Görüntü İşleme (İmge İşleme) Uygulamaları
+DERS 3 -> Python Programlama Dili ile Veri Ön İşleme Uygulamasının Gerçekleştirilmesi
 
-DERS 4 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulaması - 1
+DERS 4 -> Python Programlama Dili ile Görüntü İşleme ile Plaka ve Metinsel İçerik Tespit Uygulamasının Gerçekleştirilmesi
 
-DERS 5 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulaması - 2
+DERS 5 -> Python Programlama Dili ile Görüntü İşleme Tabanlı Nesne Tespiti Uygulamasının Gerçekleştirilmesi
 
-DERS 6 -> Python Programlama Dili ile Veri Görselleştirme ve Tahmin Uygulamasının Gerçekleştirilmesi
+DERS 6 -> Python Programlama Dili ile Bulanık Mantık YZ Uygulamasının Gerçekleştirilmesi
 
 DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi YZ Uygulaması - Titanik Veri Seti
 
