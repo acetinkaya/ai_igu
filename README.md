@@ -3,8 +3,8 @@
 ## Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
 
 1. Programın Başlangıcı 
-2. Programlama Bilgisi
-3. Veri Yapıları ve Algoritma Bilgisi
+2. Veri Yapıları ve Algoritma Bilgisi
+3. Programlama Bilgisi
 4. Veri Toplama (Veri Seti veya Veri Takibi)
 5. Veriyi Hazırlama
 6. Model Oluşturma
