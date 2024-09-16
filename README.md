@@ -20,7 +20,7 @@
 
 DERS 0 -> Yapay Zeka (YZ), YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Madenciliği, Veri Bilimi, Büyük Veri, Veri Seti Kavramları ve Google Drive, Google Colab, Linkedin, Github ve Portfolyonun Önemi  
 
-DERS 1 -> YZ Uygulamalarında Google Drive + Colab + Github Ayarları, Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib, BeautifulSoup ve OpenCV Kütüphanelerinin Uygulamaları
+DERS 1 -> YZ Uygulamalarında Google Drive + [Google Colab](https://github.com/acetinkaya/ai_igu/blob/main/D1_Python_ilk_ayarlar.ipynb) + Github Ayarları, Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib, BeautifulSoup ve OpenCV Kütüphanelerinin Uygulamaları
 
 DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
 
