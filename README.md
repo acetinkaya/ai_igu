@@ -1,4 +1,4 @@
-## Yapay Zeka (YZ) Kavramı // Concept of Artificial Intelligence
+## Yapay Zeka (YZ) Kavramı // Concept of Artificial Intelligence (AI)
 
 ## Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
 
