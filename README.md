@@ -1,4 +1,4 @@
-## Yapay Zeka ve Veri Kavramı // Concept of Artificial Intelligence and Data
+## Yapay Zeka Kavramı // Concept of Artificial Intelligence 
 
 ## Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
 
