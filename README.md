@@ -332,11 +332,13 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ## DERS 0 ve DERS 1 TAMAMLANMIŞTIR. 
 
-GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTISI GERÇEKLEŞTİRİLMİŞTİR. 
+GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTILARI GERÇEKLEŞTİRİLMİŞTİR. BU AŞAMADAN SONRAKİ TÜM DERSLERİMİZDE BU BÖLÜMLER ATLANARAK KONUYA DEVAM EDİLECEKTİR. BAĞLANTI KISMINDA HATA ALAN veya ALANLAR DERS ANINDA İLETİŞİME GEÇSİN!!!!
 
-ŞİMDİ VERIYAPILARI ve ALGORİTMALAR DERSİNİN;
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DERS 2 -> Python Programlama Dili Değişken ve Veri Türleri ile devam ediyoruz.
+ŞİMDİ YAPAY ZEKA DERSİNİN;
+
+DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
