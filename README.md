@@ -198,7 +198,9 @@ Java; while, do-while ve for
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari2.png)
 
-Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
