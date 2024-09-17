@@ -268,16 +268,21 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.14. Çalışma ortamında ilk python kodumuzu yazıyoruz.. "print("merhaba, Sınıf :D")
+1.14. Çalışma ortamında ilk python kodumuzu yazıyoruz.. 
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari10.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_5.png)
+
+      print("Merhaba, İGÜ - YAPAY ZEKA") # print ekrana çıktı veren bir koddur.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.15. Python'da kütüphane ekleme komutu "import" dur. import sys diyerek çalışma ortamında python programının hangi sürümde oluğunu öğreneceğiz.
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari11.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_5.png)
 
+      import sys # import python programlama dilinde yazılıma kütüphane eklemeye yarayan bir kod blogudur.
+      print(sys.version)
+   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.16. Google Colab üzerinde drive alanına erişim için ayarlamaları yapıyoruz..
