@@ -200,13 +200,13 @@ Java; while, do-while ve for
 
 Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
-![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_1.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_10.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.3. Aşama -> Google Drive Alanında "VERIYAPILARI_PYTHON" ismiyle yeni klasör oluşturun.
    
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari3.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
