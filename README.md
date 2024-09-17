@@ -1,4 +1,34 @@
+## “Makineler Düşünebilir mi ve Nasıl Düşünebilir? (Arf, 1959)” 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Yapay Zeka (YZ) Kavramı // Concept of Artificial Intelligence (AI)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Teknoloji, Yazılım ve Algoritma Geliştirmeyi Her Yaşa ve Her Mesleğe Hitaben Öğretmemiz Lazım !!!!!!!
+
+## Geleceğin Bilim İnsanları için geleceğin yazılım ile olacağının önemi vurgulanmalı !!!! 
+
+## Sanayinin ihtiyacı olan yazılımcı sınıtısı giderek artacak... Peki Çözüm Ne olacak ?? Çözüm Ne olmalı ??
+
+## Girişimcilik --> Günümüzde ikiye ayrıldı. 1.-> Yazılım İçeren 2.-> Yazılım İçermeyen
+
+## Öğrencilik günümüzde ikiye ayrıldı. Günümüz mezunları ile geçmiş mezuniyetler arasında çok fark olacak ... Bu işin bir noktasından Başlanılmalı ...
+
+## Akademik hayatının birinci önceliği diploma verme kurumu olmadığı sektör ile öğrencilerimiz arasında köprü olmasının önemini vurgulanmalıdır.
+
+## Bu köprü sürecinde eğerki temellerinizi veri yapısı - algoritma - yazılım - programlama - uygulama ile destekleyenler etkili bir süreç geliştirebilecektir.
+
+## Bu platformu kendi algoritmaları ile destekleyenler yeni meslekler ortaya çıktıkca adapte olabileceklerdir. 
+
+## Yazılım'da inovasyon--> 
+
+
+
+
+
+
 
 ## Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
 
