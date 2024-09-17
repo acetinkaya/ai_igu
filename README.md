@@ -93,11 +93,37 @@ DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti 
 
 DERS 12 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Su Veri seti üzerinden YZ Su Analizi Uygulamasının Gerçekleştirilmesi
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## DERS 0 -> Yapay Zeka (YZ) Kavramı ve Tarihsel Gelişim Süreci, YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Madenciliği, Veri Bilimi, Büyük Veri, Veri Seti Kavramları ve Google Drive, Google Colab, Linkedin, Github ve Portfolyonun Önemi  
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Peki Algoritma Geliştirme İşlemi için Hangi Yazılım Geliştirmede Platformunu Kullanmalıyız? 
+# IEEE (Institute of Electrical and Electronics Engineers) Yaklaşık 140 yıllık bilgi paylaşımı için aktif kullanılan bir platformdur. 
+# IEEE Moddosu: Advancing technology for humanity -> Erişim adresi: https://www.ieee.org/ 
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## <--Programlama Dillerinde Mantıksal & Matematiksel Operatörlerin İşlem Önceliği ve Önemi
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-1.png)
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-4.png)
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-3.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## <--Programlama Dillerinde Arttırma ve Azaltma İşlemlerinin Kavramı
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-2.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## <-- Akış Şeması ve Simgeler -->
 
 
 
