@@ -36,6 +36,26 @@
 
 ## Belki başka bir zamanda başka bir konumda bu algoritmalar noktasında uygulama geliştirmek için zamanınız olmamış olabilir --> Bir yerden başlamanız lazım. Eğerki şuan buradaysak ve bu eğitim alanında deneyim kazanmaya başlamak istiyorsak doğru bir konumdasınız :D Önemli olan başlamak - devamdır... 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Eğitimin Amacı: Yapay Zeka (YZ)'yi kavram halinden çıkarıp uygulama + teorik şeklinde bütünleştirilerek tümleşik bir sistemin ortaya çıkarılmasıdır.
+
+## Eğitimin Kazanımları
+
+* Yapay Zeka (YZ) çalışmalarında Türkçe literatürün önemi
+* YZ çalışmalarında Türkçe verilerin işleyebilmenin önemli
+* YZ ile bütünleşen gerçek verilerin işlerken karşılaşılan sorunlara çözümler üretebilme
+* Oluşan çözümlerin gerçek hayat verileri olarak nasıl kullanılabileceği
+* YZ algoritması geliştirilmesinde bilinç ve farkındalık oluşturabilmek
+* Yaşadığımız şehrin, ilçenin, evinizin verilerine YZ ile ortak çözümler geliştirebilmek - üretebilmek
+* YZ Türkçe Açık Kaynak Geliştiriciliğin önemi
+* Kurumlarımızın verilerine akademinin işbirliği - aracılığı ile çözümlerin ortaya koyabilmesi
+* Ülkemizin Açık Kaynak Veri Paylasımı noktasındaki çalışmaları dünyaya tanıtma ve duyurma
+* Açık kaynak verinin işlenmesinde işlem aşamaları
+* Etkileşimli çalışma ile YZ algoritmalarının sistemsel bütünlüğünü öğrenme
+* YZ alanında sürdürülebilirlik sağlanması
+* YZ çalışmalarında gelişimin öğrenerek sağlanabilmesi
+
 
 
 
