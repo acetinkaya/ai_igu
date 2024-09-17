@@ -250,7 +250,7 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.11. Drive Alanınız içerisinde çalışma alanımız olacak "VERIYAPILARI_PYTHON" klasörü içerisinde "D1_Python_ilk_ayarlar.ipynb" olduğunu teyit ediyoruz...
+1.11. Drive Alanınız içerisinde çalışma alanımız olacak "YAPAYZEKA_PYTHON" klasörü içerisinde "D1_Python_ilk_ayarlar.ipynb" olduğunu teyit ediyoruz...
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_11.png)
 
@@ -287,7 +287,10 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 1.16. Google Colab üzerinde drive alanına erişim için ayarlamaları yapıyoruz..
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari12.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_5.png)
+
+      from google.colab import drive # google colab - drive bağlantısı
+      drive.mount('/content/drive')
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
