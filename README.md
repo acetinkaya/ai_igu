@@ -244,9 +244,9 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.10. Google Colab Çalışma dosyasının  "Untitled0.ipynb" İsmini "D1_Python_ilk_ayarlar.ipynb" ile değiştiriyoruz.
+1.10. Google Colab çalışma dosyasının "Untitled0.ipynb" ismini "D1_Python_ilk_ayarlar.ipynb" ile değiştiriyoruz.
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari6.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
