@@ -24,8 +24,17 @@
 
 ## Yazılım'da inovasyon--> 
 
+1. Yaşamınızın merkezinde algoritma geliştirmeyi almak önemlidir,
+2. Sisteme entegre edilebilecek şekilde algoritma geliştirilmesi önemlidir,
+3. Fikri Mülkiyet Haklarınızı (TPMK Fikri ve Sınai Mülkiyet Hakları) almak ve korumak önemlidir.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Bu eğitimler ile birinci hedef: Yazılım Geliştirme alanında bir farkındalık oluşturarak sizlerin sıfırdan ileri seviyeye veya teorik olarak öğrenip ilerletemediğiniz yazılım geliştirme becerinizi arttırmaktır.
+
+## Bu eğitimler ile ikinci hedef: Klasik konu algısından sıyrılarak uygulamalar için yazılım tabanlı algoritma geliştirmektir.  
+
+## Belki başka bir zamanda başka bir konumda bu algoritmalar noktasında uygulama geliştirmek için zamanınız olmamış olabilir --> Bir yerden başlamanız lazım. Eğerki şuan buradaysak ve bu eğitim alanında deneyim kazanmaya başlamak istiyorsak doğru bir konumdasınız :D Önemli olan başlamak - devamdır... 
 
 
 
