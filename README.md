@@ -56,26 +56,16 @@
 * YZ alanında sürdürülebilirlik sağlanması
 * YZ çalışmalarında gelişimin öğrenerek sağlanabilmesi
 
+## Tablo 1. Yazılım, Algoritma, Programlama noktasında dünya üzerinde önemli teknoloji gelişimleri (Tablo oluşumunda kullanılan referans listesi aşağıdadır.) 
 
+El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmaları nedeniyle bilimde algoritmaların mucidi olarak geçmektedir. Algoritma ismi Harzemlinin isminden türetilmiştir. Matematik üzerinede önemli katkıları olan Harzemli cebirinde kurucusudur. Cebir kitabında denklem kurulması ve kareköklü ifadelerin çözümünü ve algoritmasını ele almıştır. 
 
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Teknoloji_Tarihi1.png)
 
-## Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Teknoloji_Tarihi2.png)
 
-1. Programın Başlangıcı 
-2. Veri Yapıları ve Algoritma Bilgisi
-3. Programlama Bilgisi
-4. Veri Toplama (Veri Seti veya Veri Takibi)
-5. Veriyi Hazırlama
-6. Model Oluşturma
-7. Eğitimi Başlatma
-8. Eğitim Sonrasında Modelin Hatasının ve Doğruluğunun Tespiti 
-9. Eğitim Sonrasında Modelin Sonuçlarının Değerlendirilmesi
-10. Eğitim Sürecinde Modelin Başarı ve Hata Grafiğinin Oluşturulması
-11. Gerçek ve Tahmin Edilen Değerler Arasındaki Farkı Bulma
-12. Sistemin Yüzdelik Hata Payının Bulunması
-13. Programın Bitirilmesi
-
-## Haftalık Ders İçeriği
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DERS KONULARI -->
 
 DERS 0 -> Yapay Zeka (YZ) Kavramı ve Tarihsel Gelişim Süreci, YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Madenciliği, Veri Bilimi, Büyük Veri, Veri Seti Kavramları ve Google Drive, Google Colab, Linkedin, Github ve Portfolyonun Önemi  
 
@@ -102,6 +92,38 @@ DERS 10 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Görüntü İşl
 DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi
 
 DERS 12 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Su Veri seti üzerinden YZ Su Analizi Uygulamasının Gerçekleştirilmesi
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
+
+1. Programın Başlangıcı 
+2. Veri Yapıları ve Algoritma Bilgisi
+3. Programlama Bilgisi
+4. Veri Toplama (Veri Seti veya Veri Takibi)
+5. Veriyi Hazırlama
+6. Model Oluşturma
+7. Eğitimi Başlatma
+8. Eğitim Sonrasında Modelin Hatasının ve Doğruluğunun Tespiti 
+9. Eğitim Sonrasında Modelin Sonuçlarının Değerlendirilmesi
+10. Eğitim Sürecinde Modelin Başarı ve Hata Grafiğinin Oluşturulması
+11. Gerçek ve Tahmin Edilen Değerler Arasındaki Farkı Bulma
+12. Sistemin Yüzdelik Hata Payının Bulunması
+13. Programın Bitirilmesi
+
+## Haftalık Ders İçeriği
+
+
+
 
 ## VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
