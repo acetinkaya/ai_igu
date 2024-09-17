@@ -252,7 +252,7 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 1.11. Drive Alanınız içerisinde çalışma alanımız olacak "VERIYAPILARI_PYTHON" klasörü içerisinde "D1_Python_ilk_ayarlar.ipynb" olduğunu teyit ediyoruz...
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari7.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_11.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
