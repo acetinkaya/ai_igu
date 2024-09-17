@@ -178,7 +178,15 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# DERS 1 -> Derste Çalışacağımız Platformlarının Hazırlanması - GOOGLE COLAB, GOOGLE DRIVE, GITHUB, LINKEDIN
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Github ve Linkedin için bir mail adresiniz üzerinden istenilen üyelikleri oluşturup işlemi tamamlıyorsunuz. 
+
+# Google Colab ve Drive için bir google mail adresi üzerinde aşağıdaki aşamaları tek tek gerçekleştirilmesi ve önemli noktaları yazarak not almanız gerekmektedir. Bu bağlamda  hangi aşamada hata alırsanız o kısımda durmanız ve bir adım geriye giderek süreci kontrol etmeniz gerekmektedir!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
