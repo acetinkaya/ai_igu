@@ -163,7 +163,20 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Derste kullanılacak platformlar  
 
+1. Github: Günümüz yazılım geliştirme sektörünün önemli bir platformdur. Erişim Adresi -> https://github.com/
+2. LinkedIn: Günümüz iş dünyasının aktif kullandığı profesyonel iş ağı platformudur. Erişim Adresi -> https://www.linkedin.com/
+3. Google Drive: https://drive.google.com/
+5. Google Colab: https://colab.research.google.com/
+6. Kaggle: https://www.kaggle.com/
+7. Google Scholar: https://scholar.google.com/
+8. Dergipark: https://dergipark.org.tr/tr/
+9. IEEE Makale Yayınları: https://www.ieee.org/
+10. YÖK Tez Yayınları: https://tez.yok.gov.tr/UlusalTezMerkezi/
+11. Kongre Bildiri Yayınları
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
