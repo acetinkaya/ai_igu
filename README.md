@@ -218,7 +218,7 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 1.5. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_2.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -236,7 +236,7 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 1.8. Google Drive'da Google Colab Kod Alanı Oluşturulması
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_3.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
