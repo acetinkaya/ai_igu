@@ -188,8 +188,149 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1.1. Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
 
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari1.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.2. Aşama -> Google Drive Sistemini Aktif Edin ve Drive alanınızı açın.
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari2.png)
+
+Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.3. Aşama -> Google Drive Alanında "VERIYAPILARI_PYTHON" ismiyle yeni klasör oluşturun.
+   
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari3.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.4. Aşama -> Google Drive Alanında "VERIYAPILARI_PYTHON" ismiyle yeni klasör oluşturun.
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari4.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.5. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.6. Colaboratory -->
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-5.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.7. Colaboratory -->
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-6.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.8. Google Drive'da Google Colab Kod Alanı Oluşturulması
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.9. Google Colab Üzerinde Oluşturulan Boş Kod Ekranı
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-8.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.10. Google Colab Çalışma dosyasının  "Untitled0.ipynb" İsmini "D1_Python_ilk_ayarlar.ipynb" ile değiştiriyoruz.
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari6.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.11. Drive Alanınız içerisinde çalışma alanımız olacak "VERIYAPILARI_PYTHON" klasörü içerisinde "D1_Python_ilk_ayarlar.ipynb" olduğunu teyit ediyoruz...
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari7.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.12. Drive alanınızda birden fazla çalışma ortamı oluşturabilirsiniz...
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari8.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.13. "D1_Python_ilk_ayarlar.ipynb" dosyasına çift tıklayıp açtığımızda karşımıza gelen çalışma ortamı... 
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari9.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.14. Çalışma ortamında ilk python kodumuzu yazıyoruz.. "print("merhaba, Sınıf :D")
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari10.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.15. Python'da kütüphane ekleme komutu "import" dur. import sys diyerek çalışma ortamında python programının hangi sürümde oluğunu öğreneceğiz.
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari11.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.16. Google Colab üzerinde drive alanına erişim için ayarlamaları yapıyoruz..
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari12.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.17. Drive Erişim izni..
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-1.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.18. Mail adresine erişim izni..
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-2.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.19. Mail adresine erişim izni..
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-3.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.20. Mail adresine erişim izni..
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-4.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.21. Gerekli izinler onaylandıktan sonra karşılaşılaçak ekran..
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari14.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.22. Google Drive klasör alanınıza erişim izni sağlanıyor. "!pwd" derlenen kodun tam derlendiğinde yaptığı işin ekran çıktısını sağlar. Silip denerseniz farklı görürsünüz.  
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari15.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DERS 0 ve DERS 1 TAMAMLANMIŞTIR. 
+
+GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTISI GERÇEKLEŞTİRİLMİŞTİR. 
+
+ŞİMDİ VERIYAPILARI ve ALGORİTMALAR DERSİNİN;
+
+DERS 2 -> Python Programlama Dili Değişken ve Veri Türleri ile devam ediyoruz.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
