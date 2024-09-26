@@ -67,7 +67,7 @@ El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmalar�
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DERS KONULARI -->
 
-DERS 0 -> Yapay Zeka (YZ) Kavramı ve Tarihsel Gelişim Süreci, YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Madenciliği, Veri Bilimi, Büyük Veri, Veri Seti Kavramları ve Google Drive, Google Colab, Linkedin, Github ve Portfolyonun Önemi  
+DERS 0 -> [Yapay Zeka (YZ) Kavramı ve Tarihsel Gelişim Süreci, YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Madenciliği, Veri Bilimi, Büyük Veri, Veri Seti Kavramları ve Google Drive, Google Colab, Linkedin, Github ve Portfolyonun Önemi](https://github.com/acetinkaya/ai_igu/blob/main/README.md#ders-0---yapay-zeka-yz-kavram%C4%B1-ve-tarihsel-geli%C5%9Fim-s%C3%BCreci-yz-alt-dallar%C4%B1-uzman-sistemler-bulan%C4%B1k-mant%C4%B1k-yapay-sinir-a%C4%9F%C4%B1-genetik-algoritma-makine-%C3%B6%C4%9Frenmesi-derin-%C3%B6%C4%9Frenme-veri-madencili%C4%9Fi-veri-bilimi-b%C3%BCy%C3%BCk-veri-veri-seti-kavramlar%C4%B1-ve-google-drive-google-colab-linkedin-github-ve-portfolyonun-%C3%B6nemi)  
 
 DERS 1 -> Yapay Zeka Uygulama Alanları ve [YZ İşlem Adımları](https://github.com/acetinkaya/ai_igu/blob/main/README.md#yapay-zeka-i%CC%87%C5%9Flem-s%C3%BCrecinde-proje-olu%C5%9Fturma-i%CC%87%C5%9Flem-ad%C4%B1mlar%C4%B1) 
 
