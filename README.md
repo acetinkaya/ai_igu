@@ -175,12 +175,20 @@ Java; while, do-while ve for
 9. IEEE Makale Yayınları: https://www.ieee.org/
 10. YÖK Tez Yayınları: https://tez.yok.gov.tr/UlusalTezMerkezi/
 11. Kongre Bildiri Yayınları
+12. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# # Github ve Linkedin için bir mail adresiniz üzerinden istenilen üyelikleri oluşturup işlemi tamamlıyorsunuz. 
+
+# Google Colab ve Drive için bir google mail adresi üzerinde aşağıdaki aşamaları tek tek gerçekleştirilmesi ve önemli noktaları yazarak not almanız gerekmektedir. Bu bağlamda  hangi aşamada hata alırsanız o kısımda durmanız ve bir adım geriye giderek süreci kontrol etmeniz gerekmektedir!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # DERS 1 -> Yapay Zeka Uygulama Alanları ve YZ İşlem Adımları
 
-# Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
+1.1. Yapay Zeka Uygulama Alanları
+
+1.2. Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
 
 1. Programın Başlangıcı
 2. Veri Yapıları ve Algoritma Bilgisi
@@ -198,27 +206,22 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
+# DERS 2 -> YZ Uygulamalarında Google Drive + Google Colab + Github Ayarları, Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib, BeautifulSoup ve OpenCV Kütüphanelerinin Uygulamaları
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# DERS 3 -> Derste Çalışacağımız Platformlarının Hazırlanması - GOOGLE COLAB, GOOGLE DRIVE, GITHUB, LINKEDIN ve PORTFOLYO ÖNEMİ
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Github ve Linkedin için bir mail adresiniz üzerinden istenilen üyelikleri oluşturup işlemi tamamlıyorsunuz. 
 
-# Google Colab ve Drive için bir google mail adresi üzerinde aşağıdaki aşamaları tek tek gerçekleştirilmesi ve önemli noktaları yazarak not almanız gerekmektedir. Bu bağlamda  hangi aşamada hata alırsanız o kısımda durmanız ve bir adım geriye giderek süreci kontrol etmeniz gerekmektedir!
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-1.1. Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
+3.1. Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.2. Aşama -> Google Drive Sistemini Aktif Edin ve Drive alanınızı açın.
+3.2. Aşama -> Google Drive Sistemini Aktif Edin ve Drive alanınızı açın.
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari2.png)
 
@@ -228,13 +231,13 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.3. Aşama -> Google Drive Alanında "YAPAYZEKA_PYTHON" ismiyle yeni klasör oluşturun.
+3.3. Aşama -> Google Drive Alanında "YAPAYZEKA_PYTHON" ismiyle yeni klasör oluşturun.
    
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.4. Aşama -> Google Drive Alanında "YAPAYZEKA_PYTHON" ismiyle yeni klasör içerisine giriş yapın...
+3.4. Aşama -> Google Drive Alanında "YAPAYZEKA_PYTHON" ismiyle yeni klasör içerisine giriş yapın...
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -360,6 +363,7 @@ GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTILARI GERÇEKLEŞTİRİLM�
 
 
 
+# DERS 3 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
 
 
 
