@@ -175,12 +175,36 @@ Java; while, do-while ve for
 9. IEEE Makale Yayınları: https://www.ieee.org/
 10. YÖK Tez Yayınları: https://tez.yok.gov.tr/UlusalTezMerkezi/
 11. Kongre Bildiri Yayınları
-12. 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # # Github ve Linkedin için bir mail adresiniz üzerinden istenilen üyelikleri oluşturup işlemi tamamlıyorsunuz. 
 
 # Google Colab ve Drive için bir google mail adresi üzerinde aşağıdaki aşamaları tek tek gerçekleştirilmesi ve önemli noktaları yazarak not almanız gerekmektedir. Bu bağlamda  hangi aşamada hata alırsanız o kısımda durmanız ve bir adım geriye giderek süreci kontrol etmeniz gerekmektedir!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
+
+1. Uygulama -> İBB Açık Veri Portalı, Atıktan Geri Kazanım Miktarları (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari 
+
+2. Uygulama -> İBB Açık Veri Portalı, İlçe Bazında Su Tüketim Miktarı, Veri Seti Linki-->> https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari
+
+# VERİ SETLERİNİN BULUNDUĞU SAYFALAR 
+
+1. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
+
+2. Ankara Büyükşehir Belediyesi Açık Veri Portalı -> https://seffaf.ankara.bel.tr/
+   
+3. İstanbul Büyükşehir Belediyesi Açık Veri Portalı -> https://data.ibb.gov.tr
+
+4. İzmir Büyükşehir Belediyesi Açık Veri Portalı Büyükşehir Belediyesi -> https://acikveri.bizizmir.com/
+
+5. Kocaeli Büyükşehir Belediyesi Açık Veri Portalı -> https://veri.kocaeli.bel.tr/
+
+6. Ordu Büyükşehir Belediyesi Açık Veri Platformu -> https://acikveri.ordu.bel.tr/
+
+7. Kaggle - Datasets -> https://www.kaggle.com/datasets 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -254,43 +278,43 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.8. Google Drive'da Google Colab Kod Alanı Oluşturulması
+2.8. Google Drive'da Google Colab Kod Alanı Oluşturulması
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_3.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.9. Google Colab Üzerinde Oluşturulan Boş Kod Ekranı
+2.9. Google Colab Üzerinde Oluşturulan Boş Kod Ekranı
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-8.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.10. Google Colab çalışma dosyasının "Untitled0.ipynb" ismini "D1_Python_ilk_ayarlar.ipynb" ile değiştiriyoruz.
+2.10. Google Colab çalışma dosyasının "Untitled0.ipynb" ismini "D1_Python_ilk_ayarlar.ipynb" ile değiştiriyoruz.
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.11. Drive Alanınız içerisinde çalışma alanımız olacak "YAPAYZEKA_PYTHON" klasörü içerisinde "D1_Python_ilk_ayarlar.ipynb" olduğunu teyit ediyoruz...
+2.11. Drive Alanınız içerisinde çalışma alanımız olacak "YAPAYZEKA_PYTHON" klasörü içerisinde "D1_Python_ilk_ayarlar.ipynb" olduğunu teyit ediyoruz...
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_11.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.12. Drive alanınızda birden fazla çalışma ortamı oluşturabilirsiniz...
+2.12. Drive alanınızda birden fazla çalışma ortamı oluşturabilirsiniz...
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_12.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.13. "D1_Python_ilk_ayarlar.ipynb" dosyasına çift tıklayıp açtığımızda karşımıza gelen çalışma ortamı... 
+2.13. "D1_Python_ilk_ayarlar.ipynb" dosyasına çift tıklayıp açtığımızda karşımıza gelen çalışma ortamı... 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari9.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.14. Çalışma ortamında ilk python kodumuzu yazıyoruz.. 
+2.14. Çalışma ortamında ilk python kodumuzu yazıyoruz.. 
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_5.png)
 
@@ -298,7 +322,7 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.15. Python'da kütüphane ekleme komutu "import" dur. import sys diyerek çalışma ortamında python programının hangi sürümde oluğunu öğreneceğiz.
+2.15. Python'da kütüphane ekleme komutu "import" dur. import sys diyerek çalışma ortamında python programının hangi sürümde oluğunu öğreneceğiz.
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_5.png)
 
@@ -307,7 +331,7 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
    
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.16. Google Colab üzerinde drive alanına erişim için ayarlamaları yapıyoruz..
+2.16. Google Colab üzerinde drive alanına erişim için ayarlamaları yapıyoruz..
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_5.png)
 
@@ -316,74 +340,53 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.17. Drive Erişim izni..
+2.17. Drive Erişim izni..
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_13.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.18. Mail adresine erişim izni..
+2.18. Mail adresine erişim izni..
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_14.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.19. Mail adresine erişim izni..
+2.19. Mail adresine erişim izni..
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_15.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.20. Mail adresine erişim izni..
+2.20. Mail adresine erişim izni..
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_16.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.21. Gerekli izinler onaylandıktan sonra karşılaşılaçak ekran..
+2.21. Gerekli izinler onaylandıktan sonra karşılaşılaçak ekran..
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_17.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.22. Google Drive klasör alanınıza erişim izni sağlanıyor. "!pwd" derlenen kodun tam derlendiğinde yaptığı işin ekran çıktısını sağlar. Silip denerseniz farklı görürsünüz.  
+2.22. Google Drive klasör alanınıza erişim izni sağlanıyor. "!pwd" derlenen kodun tam derlendiğinde yaptığı işin ekran çıktısını sağlar. Silip denerseniz farklı görürsünüz.  
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_18.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## DERS 0 ve DERS 1 TAMAMLANMIŞTIR. 
-
 GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTILARI GERÇEKLEŞTİRİLMİŞTİR. BU AŞAMADAN SONRAKİ TÜM DERSLERİMİZDE BU BÖLÜMLER ATLANARAK KONUYA DEVAM EDİLECEKTİR. BAĞLANTI KISMINDA HATA ALAN veya ALANLAR DERS ANINDA İLETİŞİME GEÇSİN!!!!
 
+## DERS 2 TAMAMLANMIŞTIR. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # DERS 3 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
 
-
-
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## VERİ SETLERİNİN REFERANS ERİŞİM NOKTALARI:
 
-1. Uygulama -> İBB Açık Veri Portalı, Atıktan Geri Kazanım Miktarları (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari 
-
-2. Uygulama -> İBB Açık Veri Portalı, İlçe Bazında Su Tüketim Miktarı, Veri Seti Linki-->> https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari
-
-# VERİ SETLERİNİN BULUNDUĞU SAYFALAR 
-
-1. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı - Ulusal Akıllı Şehir Açık Veri Platformu -> https://ulasav.csb.gov.tr/
-
-2. Ankara Büyükşehir Belediyesi Açık Veri Portalı -> https://seffaf.ankara.bel.tr/
-   
-3. İstanbul Büyükşehir Belediyesi Açık Veri Portalı -> https://data.ibb.gov.tr
-
-4. İzmir Büyükşehir Belediyesi Açık Veri Portalı Büyükşehir Belediyesi -> https://acikveri.bizizmir.com/
-
-5. Kocaeli Büyükşehir Belediyesi Açık Veri Portalı -> https://veri.kocaeli.bel.tr/
-
-6. Ordu Büyükşehir Belediyesi Açık Veri Platformu -> https://acikveri.ordu.bel.tr/
-
-7. Kaggle - Datasets -> https://www.kaggle.com/datasets 
