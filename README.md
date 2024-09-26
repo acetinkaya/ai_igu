@@ -210,18 +210,13 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-3.1. Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
+2.1. Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.2. Aşama -> Google Drive Sistemini Aktif Edin ve Drive alanınızı açın.
+2.2. Aşama -> Google Drive Sistemini Aktif Edin ve Drive alanınızı açın.
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari2.png)
 
@@ -231,29 +226,29 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.3. Aşama -> Google Drive Alanında "YAPAYZEKA_PYTHON" ismiyle yeni klasör oluşturun.
+2.3. Aşama -> Google Drive Alanında "YAPAYZEKA_PYTHON" ismiyle yeni klasör oluşturun.
    
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.4. Aşama -> Google Drive Alanında "YAPAYZEKA_PYTHON" ismiyle yeni klasör içerisine giriş yapın...
+2.4. Aşama -> Google Drive Alanında "YAPAYZEKA_PYTHON" ismiyle yeni klasör içerisine giriş yapın...
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.5. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
+2.5. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
 
 ![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/YZ_Proje_Calismasi_2.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.6. Colaboratory -->
+2.6. Colaboratory -->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-5.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.7. Colaboratory -->
+2.7. Colaboratory -->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-6.png)
 
