@@ -404,7 +404,6 @@ GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTILARI GERÇEKLEŞTİRİLM�
 
 ## DERS 2 TAMAMLANMIŞTIR. 
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -412,5 +411,24 @@ GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTILARI GERÇEKLEŞTİRİLM�
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# DERS 4 -> Python Programlama Dili ile Görüntü İşleme ile Plaka Okuma, Görüntüden Metinsel İçerik Alma, Matematiksel İşlem Algılaması ve Nesne (Araç) Tespit Uygulamasının Gerçekleştirilmesi
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+DERS 5 -> Python Programlama Dili ile Görüntü İşleme Tabanlı Nesne Tespiti Uygulamasının Gerçekleştirilmesi
+
+DERS 6 -> Python Programlama Dili ile Bulanık Mantık Tabanlı Komisyon Hesaplaması YZ Uygulamasının Gerçekleştirilmesi
+
+DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
+
+DERS 8 -> Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
+
+DERS 9 -> Python Programlama Dili ile Derin Öğrenme Tabanlı NLP Veri Seti üzerinden YZ Metin Analizi Uygulamasının Gerçekleştirilmesi
+
+DERS 10 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Görüntü İşleme üzerinden YZ Maske Tespiti Uygulamasının Gerçekleştirilmesi 
+
+DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi
+
+DERS 12 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Su Veri seti üzerinden YZ Su Analizi Uygulamasının Gerçekleştirilmesi
