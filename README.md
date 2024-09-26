@@ -423,7 +423,9 @@ GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTILARI GERÇEKLEŞTİRİLM�
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
+# DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 DERS 8 -> Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
 
