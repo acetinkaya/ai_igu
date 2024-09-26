@@ -212,6 +212,30 @@ Java; while, do-while ve for
 
 1.1. Yapay Zeka Uygulama Alanları
 
+Siber Güvenlik -> Yüz Tanıma Sistemi, Siber Tehdit Analizi ve Tespiti 
+
+Sağlık -> Hastalık Teşhisi
+
+Eğitim -> Kişiselleştirilmiş Öğrenme, Yabancı Dil Öğrenimi
+
+Finans ve Bankacılık -> Kredi Skorlama, Dolandırıcılık Tespiti
+
+E-Ticaret -> Öneri Sistemi, Sohbet Botları, Stok Takip Sistemi
+
+Otomotiv -> Otonom Arabalar Görüntü İşleme ile Hareket Sistemi Planlaması
+
+Robotik -> Robotik Cerrahi
+
+Gıda -> Tedarik Zincirinde Verimlilik Analizi, Tarla Sulama Sistemi, Meyve Teşhiş Sistemi
+
+İnsan Kaynakları -> Özgeçmiş Analiz Sistemi, Çalışan Performans Analizi
+
+Enerji ve Çevre -> Aklıllı Enerji Sistemi, Yenilenebilir Enerji Sistemi
+
+Müzik ve Sanat -> Müzik besteleme, Görüntü oluşturma ile eser oluşturma
+
+----
+
 1.2. Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
 
 1. Programın Başlangıcı
