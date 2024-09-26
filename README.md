@@ -73,7 +73,7 @@ DERS 1 -> YZ Uygulamalarında [Google Drive](https://github.com/acetinkaya/ai_ig
 
 DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
 
-DERS 3 -> Python Programlama Dili ile Veri Ön İşleme ve Görüntü Ön İşleme Uygulamalarının Gerçekleştirilmesi
+DERS 3 -> Python Programlama Dili ile YZ İşlem Adımları ve Görüntü İşleme Uygulamalarının Gerçekleştirilmesi
 
 DERS 4 -> Python Programlama Dili ile Görüntü İşleme ile Plaka ve Metinsel İçerik Tespit Uygulamasının Gerçekleştirilmesi
 
