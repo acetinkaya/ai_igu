@@ -178,7 +178,31 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# DERS 1 -> Derste Çalışacağımız Platformlarının Hazırlanması - GOOGLE COLAB, GOOGLE DRIVE, GITHUB, LINKEDIN
+# DERS 1 -> Yapay Zeka Uygulama Alanları ve YZ İşlem Adımları
+
+# Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
+
+1. Programın Başlangıcı
+2. Veri Yapıları ve Algoritma Bilgisi
+3. Programlama Bilgisi
+4. Veri Toplama (Veri Seti veya Veri Takibi)
+5. Veriyi Hazırlama
+6. Model Oluşturma
+7. Eğitimi Başlatma
+8. Eğitim Sonrasında Modelin Hatasının ve Doğruluğunun Tespiti
+9. Eğitim Sonrasında Modelin Sonuçlarının Değerlendirilmesi
+10. Eğitim Sürecinde Modelin Başarı ve Hata Grafiğinin Oluşturulması
+11. Gerçek ve Tahmin Edilen Değerler Arasındaki Farkı Bulma
+12. Sistemin Yüzdelik Hata Payının Bulunması
+13. Programın Bitirilmesi
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# DERS 3 -> Derste Çalışacağımız Platformlarının Hazırlanması - GOOGLE COLAB, GOOGLE DRIVE, GITHUB, LINKEDIN ve PORTFOLYO ÖNEMİ
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -334,33 +358,11 @@ Daha sonra drive içerisinde "YAPAYZEKA_PYTHON" ismiyle vereceğiniz yeni klasö
 
 GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTILARI GERÇEKLEŞTİRİLMİŞTİR. BU AŞAMADAN SONRAKİ TÜM DERSLERİMİZDE BU BÖLÜMLER ATLANARAK KONUYA DEVAM EDİLECEKTİR. BAĞLANTI KISMINDA HATA ALAN veya ALANLAR DERS ANINDA İLETİŞİME GEÇSİN!!!!
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ŞİMDİ YAPAY ZEKA DERSİNİN;
 
-DERS 2 -> YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DERS 3 -> Python Programlama Dili ile YZ İşlem Adımları ve Görüntü İşlemeye Giriş
 
-## Yapay Zeka İşlem Sürecinde Proje Oluşturma İşlem Adımları
-
-1. Programın Başlangıcı 
-2. Veri Yapıları ve Algoritma Bilgisi
-3. Programlama Bilgisi
-4. Veri Toplama (Veri Seti veya Veri Takibi)
-5. Veriyi Hazırlama
-6. Model Oluşturma
-7. Eğitimi Başlatma
-8. Eğitim Sonrasında Modelin Hatasının ve Doğruluğunun Tespiti 
-9. Eğitim Sonrasında Modelin Sonuçlarının Değerlendirilmesi
-10. Eğitim Sürecinde Modelin Başarı ve Hata Grafiğinin Oluşturulması
-11. Gerçek ve Tahmin Edilen Değerler Arasındaki Farkı Bulma
-12. Sistemin Yüzdelik Hata Payının Bulunması
-13. Programın Bitirilmesi
-
-## Görüntü İşlemeye Giriş -> 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
