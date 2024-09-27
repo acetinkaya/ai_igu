@@ -77,7 +77,7 @@ DERS 3 -> [YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Sciki
 
 DERS 4 -> [Python Programlama Dili ile Görüntü İşleme ile Plaka Okuma, Görüntüden Metinsel İçerik Alma, Matematiksel İşlem Algılaması ve Nesne (Araç) Tespit Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-4---python-programlama-dili-ile-g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme-ile-plaka-okuma-g%C3%B6r%C3%BCnt%C3%BCden-metinsel-i%CC%87%C3%A7erik-alma-matematiksel-i%CC%87%C5%9Flem-alg%C4%B1lamas%C4%B1-ve-nesne-ara%C3%A7-tespit-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
-DERS 5 -> Python Programlama Dili ile Görüntü İşleme Tabanlı Nesne Tespiti Uygulamasının Gerçekleştirilmesi
+DERS 5 -> [Python Programlama Dili ile Makine Öğrenmesi Tabanlı İBB Su Veri Seti üzerinden YZ Su Analizi ve Tahmini Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-5---python-programlama-dili-ile-makine-%C3%B6%C4%9Frenmesi-tabanl%C4%B1-i%CC%87bb-su-veri-seti-%C3%BCzerinden-yz-su-analizi-ve-tahmini-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
 DERS 6 -> Python Programlama Dili ile Bulanık Mantık Tabanlı Komisyon Hesaplaması YZ Uygulamasının Gerçekleştirilmesi
 
@@ -411,7 +411,7 @@ GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTILARI GERÇEKLEŞTİRİLM�
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# DERS 4 -> [Python Programlama Dili ile Görüntü İşleme ile Plaka Okuma, Görüntüden Metinsel İçerik Alma, Matematiksel İşlem Algılaması ve Nesne (Araç) Tespit Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-4---python-programlama-dili-ile-g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme-ile-plaka-okuma-g%C3%B6r%C3%BCnt%C3%BCden-metinsel-i%CC%87%C3%A7erik-alma-matematiksel-i%CC%87%C5%9Flem-alg%C4%B1lamas%C4%B1-ve-nesne-ara%C3%A7-tespit-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
+# DERS 4 -> Python Programlama Dili ile Görüntü İşleme ile Plaka Okuma, Görüntüden Metinsel İçerik Alma, Matematiksel İşlem Algılaması ve Nesne (Araç) Tespit Uygulamasının Gerçekleştirilmesi
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
