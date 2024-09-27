@@ -79,7 +79,7 @@ DERS 4 -> [Python Programlama Dili ile Görüntü İşleme ile Plaka Okuma, Gör
 
 DERS 5 -> [Python Programlama Dili ile Makine Öğrenmesi Tabanlı İBB Su Veri Seti üzerinden YZ Su Analizi ve Tahmini Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-5---python-programlama-dili-ile-makine-%C3%B6%C4%9Frenmesi-tabanl%C4%B1-i%CC%87bb-su-veri-seti-%C3%BCzerinden-yz-su-analizi-ve-tahmini-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
-DERS 6 -> Python Programlama Dili ile Bulanık Mantık Tabanlı Komisyon Hesaplaması YZ Uygulamasının Gerçekleştirilmesi
+DERS 6 -> [Python Programlama Dili ile Bulanık Mantık Tabanlı Komisyon Hesaplaması YZ Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-6---python-programlama-dili-ile-bulan%C4%B1k-mant%C4%B1k-tabanl%C4%B1-komisyon-hesaplamas%C4%B1-yz-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
 DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
 
