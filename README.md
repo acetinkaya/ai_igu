@@ -75,7 +75,7 @@ DERS 2 -> YZ Uygulamalarında [Google Drive](https://github.com/acetinkaya/ai_ig
 
 DERS 3 -> [YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-3---yz-uygulamalar%C4%B1nda-python-programlama-dili-k%C3%BCt%C3%BCphaneleri-2---scikit-learn-tensorflow-pytorch-ve-keras-k%C3%BCt%C3%BCphanelerinin-uygulamalar%C4%B1)
 
-DERS 4 -> Python Programlama Dili ile Görüntü İşleme ile Plaka Okuma, Görüntüden Metinsel İçerik Alma, Matematiksel İşlem Algılaması ve Nesne (Araç) Tespit Uygulamasının Gerçekleştirilmesi
+DERS 4 -> [Python Programlama Dili ile Görüntü İşleme ile Plaka Okuma, Görüntüden Metinsel İçerik Alma, Matematiksel İşlem Algılaması ve Nesne (Araç) Tespit Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-4---python-programlama-dili-ile-g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme-ile-plaka-okuma-g%C3%B6r%C3%BCnt%C3%BCden-metinsel-i%CC%87%C3%A7erik-alma-matematiksel-i%CC%87%C5%9Flem-alg%C4%B1lamas%C4%B1-ve-nesne-ara%C3%A7-tespit-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
 DERS 5 -> Python Programlama Dili ile Görüntü İşleme Tabanlı Nesne Tespiti Uygulamasının Gerçekleştirilmesi
 
