@@ -81,17 +81,15 @@ DERS 5 -> [Python Programlama Dili ile Makine Öğrenmesi Tabanlı İBB Su Veri 
 
 DERS 6 -> [Python Programlama Dili ile Bulanık Mantık Tabanlı Komisyon Hesaplaması YZ Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-6---python-programlama-dili-ile-bulan%C4%B1k-mant%C4%B1k-tabanl%C4%B1-komisyon-hesaplamas%C4%B1-yz-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
-DERS 7 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
+DERS 7 -> [Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-7---python-programlama-dili-ile-makine-%C3%B6%C4%9Frenmesi-tabanl%C4%B1-titanik-veri-seti-%C3%BCzerinden-yz-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
-DERS 8 -> Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi
+DERS 8 -> [Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-8---python-programlama-dili-ile-derin-%C3%B6%C4%9Frenme-tabanl%C4%B1-mnist-veri-seti-%C3%BCzerinden-yz-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
-DERS 9 -> Python Programlama Dili ile Derin Öğrenme Tabanlı NLP Veri Seti üzerinden YZ Metin Analizi Uygulamasının Gerçekleştirilmesi
+DERS 9 -> [Python Programlama Dili ile Derin Öğrenme Tabanlı NLP Veri Seti üzerinden YZ Metin Analizi Uygulamasının Gerçekleştirilmesi]
 
-DERS 10 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Görüntü İşleme üzerinden YZ Maske Tespiti Uygulamasının Gerçekleştirilmesi 
+DERS 10 -> [Python Programlama Dili ile Derin Öğrenme Tabanlı Görüntü İşleme üzerinden YZ Maske Tespiti Uygulamasının Gerçekleştirilmesi]
 
 DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi
-
-DERS 12 -> Python Programlama Dili ile Makine Öğrenmesi Tabanlı Su Veri seti üzerinden YZ Su Analizi Uygulamasının Gerçekleştirilmesi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
