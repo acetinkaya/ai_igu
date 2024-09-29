@@ -528,20 +528,35 @@ Tablo 1 içerisinde yer alan çalışmaların referans kaynak listesi:
 
 9. Taştan, A. (2001). Nasreddin Tusi: hayatı, eserleri, din ve toplum Görüşü. Erciyes Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 1(11), 1-13.
 
-Hebb, D. O. (1949). The first stage of perception: growth of the assembly. The Organization of Behavior, 4, 60-78.
-Farley, B. W. A. C., & Clark, W. D. (1954). Simulation of self-organizing systems by digital computer. Transactions of the IRE Professional Group on Information Theory, 4(4), 76-84.
-Uyanık, M. (2022). El-Hârezmî Ebû Ca‘Fer Muhammed B. Mûsâ. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 250.
-McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The bulletin of mathematical biophysics, 5(4), 115-133.
-Yang, S., Lee, J., Sezgin, E., Bridge, J., & Lin, S. (2021). Clinical Advice by Voice Assistants on Postpartum Depression: Cross-Sectional Investigation Using Apple Siri, Amazon Alexa, Google Assistant, and Microsoft Cortana. JMIR mHealth and uHealth, 9(1), e24045. https://doi.org/10.2196/24045
-McFarlane, M. D. (1972). Digital pictures fifty years ago. Proceedings of the IEEE, 60(7), 768-770.
-Turing, A. M. (1940). Mathematical theory of enigma machine. Public Record Office, London, 3, 150.
-Turing, A. M. (1948). Intelligent machinery. report for national physical laboratory. reprinted in ince, dc (editor). 1992. mechanical intelligence: Collected works of am turing.
-McCarthy, J. (1955). Human-Level Ai Is Harder Than It Seemed.
-Rosenblatt, F. (1957). The perceptron, a perceiving and recognizing automaton Project Para. Cornell Aeronautical Laboratory.
-Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2017). Imagenet classification with deep convolutional neural networks. Communications of the ACM, 60(6), 84-90.
-Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2020). Generative adversarial networks. Communications of the ACM, 63(11), 139-144.
-Özşahin, M. S. (2017). Türk minyatür tekniği ile çizgi roman tasarımı (Master's thesis). Kütahya Dumlupınar Üniversitesi, Sosyal Bilimler Enstitüsü.
-Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
+10. Hebb, D. O. (1949). The first stage of perception: growth of the assembly. The Organization of Behavior, 4, 60-78.
+
+11. Farley, B. W. A. C., & Clark, W. D. (1954). Simulation of self-organizing systems by digital computer. Transactions of the IRE Professional Group on Information Theory, 4(4), 76-84.
+
+12. Uyanık, M. (2022). El-Hârezmî Ebû Ca‘Fer Muhammed B. Mûsâ. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 250.
+
+13. McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The bulletin of mathematical biophysics, 5(4), 115-133.
+
+14. Yang, S., Lee, J., Sezgin, E., Bridge, J., & Lin, S. (2021). Clinical Advice by Voice Assistants on Postpartum Depression: Cross-Sectional Investigation Using Apple Siri, Amazon Alexa, Google Assistant, and ,
+
+15. Microsoft Cortana. JMIR mHealth and uHealth, 9(1), e24045. https://doi.org/10.2196/24045
+
+16. McFarlane, M. D. (1972). Digital pictures fifty years ago. Proceedings of the IEEE, 60(7), 768-770.
+
+17. Turing, A. M. (1940). Mathematical theory of enigma machine. Public Record Office, London, 3, 150.
+
+18. Turing, A. M. (1948). Intelligent machinery. report for national physical laboratory. reprinted in ince, dc (editor). 1992. mechanical intelligence: Collected works of am turing.
+
+19. McCarthy, J. (1955). Human-Level Ai Is Harder Than It Seemed.
+
+20. Rosenblatt, F. (1957). The perceptron, a perceiving and recognizing automaton Project Para. Cornell Aeronautical Laboratory.
+
+21. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2017). Imagenet classification with deep convolutional neural networks. Communications of the ACM, 60(6), 84-90.
+
+22. Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2020). Generative adversarial networks. Communications of the ACM, 63(11), 139-144.
+
+23. Özşahin, M. S. (2017). Türk minyatür tekniği ile çizgi roman tasarımı (Master's thesis). Kütahya Dumlupınar Üniversitesi, Sosyal Bilimler Enstitüsü.
+
+24. Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI blog, 1(8), 9.
 Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). Zero-shot text-to-image generation. In International Conference on Machine Learning (pp. 8821-8831). PMLR.
 Topdemir, H. G. (2022). Takiyüddin İbn Ma'ruf. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 524.
