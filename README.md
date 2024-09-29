@@ -501,5 +501,13 @@ Dr. Öğr. Üyesi Ebubekir YAŞAR, "Algoritma Ve Programlamaya Giriş", Ekin Bas
 
 Öğr. Gör. Ali ÇETİNKAYA’nın internet sayfaları:
 
+      https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
+      https://avesis.gelisim.edu.tr/alcetinkaya
+      https://github.com/acetinkaya/
+      https://alicetinkaya.site/
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+Tablo 1 içerisinde yer alan çalışmaların referans kaynak listesi:
 
 
