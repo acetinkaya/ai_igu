@@ -557,18 +557,30 @@ Tablo 1 içerisinde yer alan çalışmaların referans kaynak listesi:
 23. Özşahin, M. S. (2017). Türk minyatür tekniği ile çizgi roman tasarımı (Master's thesis). Kütahya Dumlupınar Üniversitesi, Sosyal Bilimler Enstitüsü.
 
 24. Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
-Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI blog, 1(8), 9.
-Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). Zero-shot text-to-image generation. In International Conference on Machine Learning (pp. 8821-8831). PMLR.
-Topdemir, H. G. (2022). Takiyüddin İbn Ma'ruf. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 524.
-LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
-Vacroux, A. G. (1975). Microcomputers. Scientific American, 232(5), 32-41.
-Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). Imagenet: A large-scale hierarchical image database. In 2009 IEEE conference on computer vision and pattern recognition (pp. 248-255). Ieee.
-Çırak, B., & Yörük, A. (2016). Mekatronik biliminin öncüsü İsmail El-Cezeri. Siirt Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, (4), 175-194.
-Kato, I., Ohteru, S., Shirai, K., Matsushima, T., Narita, S., Sugano, S., ... & Fujisawa, E. (1987). The robot musician ‘wabot-2’(waseda robot-2). Robotics, 3(2), 143-155.
-Spenko, M., Buerger, S., & Iagnemma, K. (Eds.). (2018). The DARPA robotics challenge finals: humanoid robots to the rescue (Vol. 121). Springer.
-Lin, R., Ma, L., & Zhang, W. (2018). An interview study exploring Tesla drivers' behavioural adaptation. Applied ergonomics, 72, 37-47.
-Google, (2017). Teachable machine v1. https://teachablemachine.withgoogle.com/v1/ Son Erişim Tarihi: 19.12.2022
-Yang, Z., Gan, Z., Wang, J., Hu, X., Lu, Y., Liu, Z., & Wang, L. (2022). An empirical study of gpt-3 for few-shot knowledge-based vqa. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 3, pp. 3081-3089).
+
+25. Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI blog, 1(8), 9.
+
+26. Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). Zero-shot text-to-image generation. In International Conference on Machine Learning (pp. 8821-8831). PMLR.
+
+27. Topdemir, H. G. (2022). Takiyüddin İbn Ma'ruf. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 524.
+
+28. LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
+
+29. Vacroux, A. G. (1975). Microcomputers. Scientific American, 232(5), 32-41.
+
+30. Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). Imagenet: A large-scale hierarchical image database. In 2009 IEEE conference on computer vision and pattern recognition (pp. 248-255). Ieee.
+
+31. Çırak, B., & Yörük, A. (2016). Mekatronik biliminin öncüsü İsmail El-Cezeri. Siirt Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, (4), 175-194.
+
+32. Kato, I., Ohteru, S., Shirai, K., Matsushima, T., Narita, S., Sugano, S., ... & Fujisawa, E. (1987). The robot musician ‘wabot-2’(waseda robot-2). Robotics, 3(2), 143-155.
+
+33. Spenko, M., Buerger, S., & Iagnemma, K. (Eds.). (2018). The DARPA robotics challenge finals: humanoid robots to the rescue (Vol. 121). Springer.
+
+34. Lin, R., Ma, L., & Zhang, W. (2018). An interview study exploring Tesla drivers' behavioural adaptation. Applied ergonomics, 72, 37-47.
+
+35. Google, (2017). Teachable machine v1. https://teachablemachine.withgoogle.com/v1/ Son Erişim Tarihi: 19.12.2022
+
+36. Yang, Z., Gan, Z., Wang, J., Hu, X., Lu, Y., Liu, Z., & Wang, L. (2022). An empirical study of gpt-3 for few-shot knowledge-based vqa. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 3, pp. 3081-3089).
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
