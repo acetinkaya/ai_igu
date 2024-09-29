@@ -87,7 +87,7 @@ DERS 8 -> [Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti 
 
 DERS 9 -> [Python Programlama Dili ile API ve ENDPOINT Kullanarak Uygulama Geliştirme: Web Hizmetlerinde Bütünlük ve Erişilebilirlik](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-9---python-programlama-dili-ile-api-ve-endpoint-kullanarak-uygulama-geli%C5%9Ftirme-web-hizmetlerinde-b%C3%BCt%C3%BCnl%C3%BCk-ve-eri%C5%9Filebilirlik)
 
-DERS 10 -> [Python Programlama Dili ile Derin Öğrenme Tabanlı Görüntü İşleme üzerinden YZ Maske Tespiti Uygulamasının Gerçekleştirilmesi]
+DERS 10 -> [Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-10---python-programlama-dili-ile-derin-%C3%B6%C4%9Frenme-tabanl%C4%B1-ara%C3%A7-veri-seti-%C3%BCzerinden-yz-fiyat-tahmini-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
 DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi
 
@@ -96,7 +96,7 @@ DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti 
 
 
 
-# DERS 10 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi
+# DERS 10 -> 
 
 
 # DERS 11 -> Python Programlama Dili ile Derin Öğrenme Tabanlı NLP Veri Seti üzerinden YZ Metin Analizi Uygulamasının Gerçekleştirilmesi
