@@ -560,8 +560,14 @@ Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-      ## Yazdığınınz kodun hakkını verin !!!
+      ## Yazdığınız kodun hakkını verin !!!
       
       ## Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2024
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+# Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
+
+# IEEE--> A. Cetinkaya, "veriyapilari-algoritma" GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/ai_igu. Son Erişim Tarihi: Gün Ay Yıl.
+
+# APA--> Cetinkaya, A. (2024). veriyapilari-algoritma [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/ai_igu. Son Erişim Tarihi: Gün Ay Yıl.
