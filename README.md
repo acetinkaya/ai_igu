@@ -510,15 +510,24 @@ Dr. Öğr. Üyesi Ebubekir YAŞAR, "Algoritma Ve Programlamaya Giriş", Ekin Bas
 
 Tablo 1 içerisinde yer alan çalışmaların referans kaynak listesi:
 
-Arf, C. (1959). Makineler Düşünebilir mi ve Nasıl Düşünebilir?. Atatürk Üniversitesi 1958-1959 Öğretim Yılı Halk Konferansları, (1), 91-103.
-Widrow, B., & Hoff, M. E. (1960). Adaptative Switching Circuits. Wetscon Convention Record. Institute for Research and Education. New York.
-Zadeh, L. A. (1965). Fuzzy sets. Information and control, 8(3), 338-353.
-Brezina, C. (2006). Al-Khwarizmi: The inventor of algebra. The Rosen Publishing Group.
-Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial intelligence, 134(1-2), 57-83.
-Allahverdi, N. (2002). Uzman Sistemler Bir Yapay Zeka Uygulaması, Atlas Yayın Dağıtım, Ankara.
-James, W. (1984). Psychology, briefer course (Vol. 14). Harvard University Press.
-Nilsson NJ (1965). Foundations of trainable pattern classifying systems. McGraw-Hill, New York
-Taştan, A. (2001). Nasreddin Tusi: hayatı, eserleri, din ve toplum Görüşü. Erciyes Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 1(11), 1-13.
+1. Arf, C. (1959). Makineler Düşünebilir mi ve Nasıl Düşünebilir?. Atatürk Üniversitesi 1958-1959 Öğretim Yılı Halk Konferansları, (1), 91-103.
+
+2. Widrow, B., & Hoff, M. E. (1960). Adaptative Switching Circuits. Wetscon Convention Record. Institute for Research and Education. New York.
+
+3. Zadeh, L. A. (1965). Fuzzy sets. Information and control, 8(3), 338-353.
+
+4. Brezina, C. (2006). Al-Khwarizmi: The inventor of algebra. The Rosen Publishing Group.
+
+5. Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial intelligence, 134(1-2), 57-83.
+
+6. Allahverdi, N. (2002). Uzman Sistemler Bir Yapay Zeka Uygulaması, Atlas Yayın Dağıtım, Ankara.
+
+7. James, W. (1984). Psychology, briefer course (Vol. 14). Harvard University Press.
+
+8. Nilsson NJ (1965). Foundations of trainable pattern classifying systems. McGraw-Hill, New York
+
+9. Taştan, A. (2001). Nasreddin Tusi: hayatı, eserleri, din ve toplum Görüşü. Erciyes Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 1(11), 1-13.
+
 Hebb, D. O. (1949). The first stage of perception: growth of the assembly. The Organization of Behavior, 4, 60-78.
 Farley, B. W. A. C., & Clark, W. D. (1954). Simulation of self-organizing systems by digital computer. Transactions of the IRE Professional Group on Information Theory, 4(4), 76-84.
 Uyanık, M. (2022). El-Hârezmî Ebû Ca‘Fer Muhammed B. Mûsâ. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 250.
