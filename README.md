@@ -617,8 +617,9 @@ Katkıda Bulunma:
 Çekme istekleri memnuniyetle karşılanır. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi görüşmek üzere ilgili Python kodunu belirttiğiniz bir soru - yanıt bölümü açın. 
  
 Lisans: 
-MIT Lisansı altında yayımlandı
-Yazar ve Güncelleme Yapan: Öğr. Gör. Ali Çetinkaya (MSc.) - 2024
+[MIT Lisansı](http://mit-license.org/) altında yayımlandı
+
+Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.com/acetinkaya) - 2024
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
@@ -629,5 +630,6 @@ Contributing:
 Pull requests are welcome. For major changes, please open a question-and-answer section indicating the relevant Python code to discuss what you'd like to change first.
 
 License:
-Released under the MIT License
-Authored and Maintained by Lect. Ali Cetinkaya (MSc.) - 2024
+Released under the [MIT License](http://mit-license.org/)
+
+Authored and Maintained by [Lect. Ali Cetinkaya (MSc.)](https://github.com/acetinkaya) - 2024
