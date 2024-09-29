@@ -545,3 +545,18 @@ Spenko, M., Buerger, S., & Iagnemma, K. (Eds.). (2018). The DARPA robotics chall
 Lin, R., Ma, L., & Zhang, W. (2018). An interview study exploring Tesla drivers' behavioural adaptation. Applied ergonomics, 72, 37-47.
 Google, (2017). Teachable machine v1. https://teachablemachine.withgoogle.com/v1/ Son Erişim Tarihi: 19.12.2022
 Yang, Z., Gan, Z., Wang, J., Hu, X., Lu, Y., Liu, Z., & Wang, L. (2022). An empirical study of gpt-3 for few-shot knowledge-based vqa. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 3, pp. 3081-3089).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+<-- Saygılarımla Öğr. Gör. Ali ÇETİNKAYA - Eylül 2024 -->
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+Yukarıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak github "acetinkaya" alanında paylaşımı yapılmıştır.
+
+Github alanından; star - yıldız ile beğenme bildirimi ile paylaşımlarıma destek verebilirsiniz.
+
+Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
+
+
+
