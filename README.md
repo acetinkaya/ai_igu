@@ -69,11 +69,13 @@ El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmalar�
 
 DERS 0 -> [Yapay Zeka (YZ) Kavramı ve Tarihsel Gelişim Süreci, YZ Alt Dalları (Uzman Sistemler, Bulanık Mantık, Yapay Sinir Ağı, Genetik Algoritma, Makine Öğrenmesi, Derin Öğrenme), Veri Madenciliği, Veri Bilimi, Büyük Veri, Veri Seti Kavramları ve Google Drive, Google Colab, Linkedin, Github ve Portfolyonun Önemi](https://github.com/acetinkaya/ai_igu/blob/main/README.md#ders-0---yapay-zeka-yz-kavram%C4%B1-ve-tarihsel-geli%C5%9Fim-s%C3%BCreci-yz-alt-dallar%C4%B1-uzman-sistemler-bulan%C4%B1k-mant%C4%B1k-yapay-sinir-a%C4%9F%C4%B1-genetik-algoritma-makine-%C3%B6%C4%9Frenmesi-derin-%C3%B6%C4%9Frenme-veri-madencili%C4%9Fi-veri-bilimi-b%C3%BCy%C3%BCk-veri-veri-seti-kavramlar%C4%B1-ve-google-drive-google-colab-linkedin-github-ve-portfolyonun-%C3%B6nemi)  
 
-DERS 1 -> [Yapay Zeka Uygulama Alanları ve YZ İşlem Adımları](https://github.com/acetinkaya/ai_igu/blob/main/README.md#ders-1---yapay-zeka-uygulama-alanlar%C4%B1-ve-yz-i%CC%87%C5%9Flem-ad%C4%B1mlar%C4%B1)
+DERS 1 -> [Yapay Zeka Uygulama ve Proje Geliştirme İşlem Alanları](https://github.com/acetinkaya/ai_igu/blob/main/README.md#ders-1---yapay-zeka-uygulama-alanlar%C4%B1-ve-yz-i%CC%87%C5%9Flem-ad%C4%B1mlar%C4%B1)
 
 DERS 2 -> YZ Uygulamalarında [Google Drive](https://github.com/acetinkaya/ai_igu/blob/main/README.md#ders-2---yz-uygulamalar%C4%B1nda-google-drive--google-colab--github-ayarlar%C4%B1-python-programlama-dili-k%C3%BCt%C3%BCphaneleri-1---pandas-numpy-matplotlib-beautifulsoup-ve-opencv-k%C3%BCt%C3%BCphanelerinin-uygulamalar%C4%B1) + [Google Colab](https://github.com/acetinkaya/ai_igu/blob/main/D1_Python_ilk_ayarlar.ipynb) + [Github Ayarları](https://github.com/acetinkaya/ai_igu/blob/main/README.md#-github-ve-linkedin-i%C3%A7in-bir-mail-adresiniz-%C3%BCzerinden-istenilen-%C3%BCyelikleri-olu%C5%9Fturup-i%C5%9Flemi-tamaml%C4%B1yorsunuz), Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib, BeautifulSoup ve OpenCV Kütüphanelerinin Uygulamaları
 
 DERS 3 -> [YZ Uygulamalarında Python Programlama Dili Kütüphaneleri 2 - Scikit-Learn, Tensorflow, Pytorch ve Keras Kütüphanelerinin Uygulamaları](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-3---yz-uygulamalar%C4%B1nda-python-programlama-dili-k%C3%BCt%C3%BCphaneleri-2---scikit-learn-tensorflow-pytorch-ve-keras-k%C3%BCt%C3%BCphanelerinin-uygulamalar%C4%B1)
+
+DERS 9 -> [Python Programlama Dili ile Veri Seti Bulma ve Veri Toplama İşlem Adımları API ve ENDPOINT Kullanarak Uygulama Geliştirme: Web Hizmetlerinde Bütünlük ve Erişilebilirlik](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-9---python-programlama-dili-ile-api-ve-endpoint-kullanarak-uygulama-geli%C5%9Ftirme-web-hizmetlerinde-b%C3%BCt%C3%BCnl%C3%BCk-ve-eri%C5%9Filebilirlik)
 
 DERS 4 -> [Python Programlama Dili ile Görüntü İşleme ile Plaka Okuma, Görüntüden Metinsel İçerik Alma, Matematiksel İşlem Algılaması ve Nesne (Araç) Tespit Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-4---python-programlama-dili-ile-g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme-ile-plaka-okuma-g%C3%B6r%C3%BCnt%C3%BCden-metinsel-i%CC%87%C3%A7erik-alma-matematiksel-i%CC%87%C5%9Flem-alg%C4%B1lamas%C4%B1-ve-nesne-ara%C3%A7-tespit-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
@@ -85,7 +87,7 @@ DERS 7 -> [Python Programlama Dili ile Makine Öğrenmesi Tabanlı Titanik Veri 
 
 DERS 8 -> [Python Programlama Dili ile Derin Öğrenme Tabanlı MNIST Veri Seti üzerinden YZ Uygulamasının Gerçekleştirilmesi](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-8---python-programlama-dili-ile-derin-%C3%B6%C4%9Frenme-tabanl%C4%B1-mnist-veri-seti-%C3%BCzerinden-yz-uygulamas%C4%B1n%C4%B1n-ger%C3%A7ekle%C5%9Ftirilmesi)
 
-DERS 9 -> [Python Programlama Dili ile API ve ENDPOINT Kullanarak Uygulama Geliştirme: Web Hizmetlerinde Bütünlük ve Erişilebilirlik](https://github.com/acetinkaya/ai_igu?tab=readme-ov-file#ders-9---python-programlama-dili-ile-api-ve-endpoint-kullanarak-uygulama-geli%C5%9Ftirme-web-hizmetlerinde-b%C3%BCt%C3%BCnl%C3%BCk-ve-eri%C5%9Filebilirlik)
+
 
 DERS 10 -> Python Programlama Dili ile Derin Öğrenme Tabanlı Araç Veri Seti üzerinden YZ Fiyat Tahmini Uygulamasının Gerçekleştirilmesi
 
