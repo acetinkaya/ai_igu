@@ -256,9 +256,7 @@ Müzik ve Sanat -> Müzik besteleme, Görüntü oluşturma ile eser oluşturma
 
 Github Ayarları ve Github Paylaşımları
 
-![alternatif metin]([ttps://github.com/acetinkaya/ai_igu/blob/main/Github1.png)
-
-
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github1.png)
 
 https://github.com/acetinkaya/ai_igu/blob/main/Github2.png
 
