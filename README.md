@@ -260,17 +260,27 @@ Github Ayarları ve Github Paylaşımları - Yeni Paylaşım Ortamının Oluştu
 
 --------
 
-![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github2.png
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github2.png)
 
-![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github3.png
+--------
 
-![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github4.png
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github3.png)
 
-![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github5.png
+--------
 
-![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github6.png
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github4.png)
 
-![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github7.png
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github5.png)
+
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github6.png)
+
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github7.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
