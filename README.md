@@ -254,6 +254,24 @@ Müzik ve Sanat -> Müzik besteleme, Görüntü oluşturma ile eser oluşturma
 
 # DERS 2 -> YZ Uygulamalarında Google Drive + Google Colab + Github Ayarları, Python Programlama Dili Kütüphaneleri 1 - Pandas, Numpy, Matplotlib, BeautifulSoup ve OpenCV Kütüphanelerinin Uygulamaları
 
+Github Ayarları ve Github Paylaşımları
+
+https://github.com/acetinkaya/ai_igu/blob/main/Github1.png
+
+https://github.com/acetinkaya/ai_igu/blob/main/Github2.png
+
+https://github.com/acetinkaya/ai_igu/blob/main/Github3.png
+
+https://github.com/acetinkaya/ai_igu/blob/main/Github4.png
+
+https://github.com/acetinkaya/ai_igu/blob/main/Github5.png
+
+https://github.com/acetinkaya/ai_igu/blob/main/Github6.png
+
+
+
+https://github.com/acetinkaya/ai_igu/blob/main/Github7.png
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.1. Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
