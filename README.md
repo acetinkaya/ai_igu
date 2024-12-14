@@ -489,7 +489,7 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
 
 Ord. Prof. Dr. Cahit ARF, "Makine düşünebilir mi ve nasıl düşünebilir", Atatürk Üniversitesi-Üniversite Çalışmalarını Muhite Yayma ve Halk Eğitimi Yayınları Konferanslar Serisi, (1), 91-103. Erzurum, 1959.
 
-Prof. Dr. Murat GÖK, "Makine Öğrenmesi Algoritmaları", Nobel Akademik Yayıncılık,
+Prof. Dr. Murat GÖK, "Makine Öğrenmesi Algoritmaları", Nobel Akademik Yayıncılık, Ankara, 2024.
 
 Prof. Dr. Vasıf NABİYEV, "Teoriden Uygulamalara Algoritmalar", Seçkin Yayınları, Ankara, 2011.
 
